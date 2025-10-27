@@ -1,0 +1,80 @@
+{
+  "navigation": {
+    "home": "首页",
+    "about": "关于",
+    "technology": "技术",
+    "team": "团队",
+    "download": "下载"
+  },
+  "hero": {
+    "tagline": "FurEver AI — 友谊从这里开始",
+    "subtitle": "全球首款AI驱动的宠物社交可穿戴设备",
+    "watchVideo": "观看产品视频",
+    "downloadApp": "下载应用",
+    "scrollIndicator": "滚动探索"
+  },
+  "about": {
+    "title": "宠物连接的更智能方式",
+    "description": "FurEver AI使用先进的AI技术检测宠物之间的声音和动作同步，通过声音模式和行为匹配来衡量它们的友谊。看着您的毛茸茸的朋友通过技术建立更深层的联系。"
+  },
+  "technology": {
+    "title": "友谊的科学",
+    "subtitle": "基于多年的兽医研究和行为学研究构建",
+    "features": [
+      {
+        "title": "专家开发AI",
+        "description": "与领先的兽医行为学家合作开发，基于数百万小时宠物互动数据训练",
+        "icon": "Brain",
+        "gradient": "from-purple-500 to-pink-500"
+      },
+      {
+        "title": "语音识别",
+        "description": "智能技术理解不同物种宠物的交流和社会互动",
+        "icon": "Volume2",
+        "gradient": "from-blue-500 to-cyan-500"
+      },
+      {
+        "title": "行为分析",
+        "description": "分析50多种行为指标，了解社交偏好和兼容性",
+        "icon": "Activity",
+        "gradient": "from-green-500 to-emerald-500"
+      },
+      {
+        "title": "兼容性评分",
+        "description": "通过大量和谐与冲突宠物关系研究验证",
+        "icon": "Star",
+        "gradient": "from-orange-500 to-red-500"
+      }
+    ]
+  },
+  "team": {
+    "title": "认识创造者",
+    "founder": {
+      "name": "Ethan Xu",
+      "title": "创始人兼首席执行官",
+      "bio": "AI工程师和企业家，致力于通过创新技术加强宠物与其人类家庭之间的联系。"
+    }
+  },
+  "download": {
+    "title": "加入FurEver AI测试版",
+    "subtitle": "友谊从这里开始。",
+    "appStore": "在App Store下载",
+    "googlePlay": "在Google Play获取",
+    "newsletter": {
+      "placeholder": "输入您的邮箱",
+      "button": "保持更新"
+    }
+  },
+  "footer": {
+    "copyright": "© 2025 FurEver AI. 版权所有。",
+    "contact": "联系我们",
+    "privacy": "隐私政策",
+    "press": "新闻资料包"
+  },
+  "buttons": {
+    "learnMore": "了解更多",
+    "getStarted": "开始使用",
+    "contact": "联系我们"
+  }
+}
+

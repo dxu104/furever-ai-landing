@@ -1,0 +1,80 @@
+{
+  "navigation": {
+    "home": "Home",
+    "about": "About",
+    "technology": "Technology",
+    "team": "Team",
+    "download": "Download"
+  },
+  "hero": {
+    "tagline": "FurEver AI — Where Friendships Begin",
+    "subtitle": "The world's first AI-driven social wearable for pets.",
+    "watchVideo": "Watch Product Video",
+    "downloadApp": "Download App",
+    "scrollIndicator": "Scroll to explore"
+  },
+  "about": {
+    "title": "A Smarter Way for Pets to Connect",
+    "description": "FurEver AI uses advanced AI to detect voice and motion synchronization between pets, measuring their friendship through sound patterns and behavioral matching. Watch as your furry friends build deeper connections through technology."
+  },
+  "technology": {
+    "title": "The Science of Friendship",
+    "subtitle": "Built on years of veterinary research and behavioral studies",
+    "features": [
+      {
+        "title": "Expert-Developed AI",
+        "description": "Developed with leading veterinary behaviorists and trained on millions of hours of pet interaction data",
+        "icon": "Brain",
+        "gradient": "from-purple-500 to-pink-500"
+      },
+      {
+        "title": "Voice Recognition",
+        "description": "Smart technology understands pet communication and social interactions across different species",
+        "icon": "Volume2",
+        "gradient": "from-blue-500 to-cyan-500"
+      },
+      {
+        "title": "Behavioral Analysis",
+        "description": "Analyzes 50+ behavioral indicators to understand social preferences and compatibility",
+        "icon": "Activity",
+        "gradient": "from-green-500 to-emerald-500"
+      },
+      {
+        "title": "Compatibility Score",
+        "description": "Validated through extensive studies of both harmonious and conflicting pet relationships",
+        "icon": "Star",
+        "gradient": "from-orange-500 to-red-500"
+      }
+    ]
+  },
+  "team": {
+    "title": "Meet the Creators",
+    "founder": {
+      "name": "Ethan Xu",
+      "title": "Founder & CEO",
+      "bio": "AI engineer and entrepreneur passionate about strengthening the bond between pets and their human families through innovative technology."
+    }
+  },
+  "download": {
+    "title": "Join the FurEver AI Beta",
+    "subtitle": "Friendship starts here.",
+    "appStore": "Download on App Store",
+    "googlePlay": "Get it on Google Play",
+    "newsletter": {
+      "placeholder": "Enter your email",
+      "button": "Stay Updated"
+    }
+  },
+  "footer": {
+    "copyright": "© 2025 FurEver AI. All rights reserved.",
+    "contact": "Contact",
+    "privacy": "Privacy Policy",
+    "press": "Press Kit"
+  },
+  "buttons": {
+    "learnMore": "Learn More",
+    "getStarted": "Get Started",
+    "contact": "Contact Us"
+  }
+}
+
