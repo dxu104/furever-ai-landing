@@ -1,6 +1,6 @@
-# PawLink Landing Page
+# FurEver AI Landing Page
 
-A beautiful, responsive landing page for PawLink - the world's first AI-driven social wearable for pets. Built with Next.js 14, TypeScript, Tailwind CSS, and Framer Motion.
+A beautiful, responsive landing page for FurEver AI - the world's first AI-driven social wearable for pets. Built with Next.js 14, TypeScript, Tailwind CSS, and Framer Motion.
 
 ## Features
 
@@ -33,7 +33,7 @@ A beautiful, responsive landing page for PawLink - the world's first AI-driven s
 1. Clone the repository:
 ```bash
 git clone <your-repo-url>
-cd pawlink-landing
+cd furever-ai-landing
 ```
 
 2. Install dependencies:
@@ -171,11 +171,11 @@ The site is optimized for performance with:
 
 ## License
 
-This project is proprietary to PawLink. All rights reserved.
+This project is proprietary to FurEver AI. All rights reserved.
 
 ## Support
 
 For questions or support, contact:
-- Email: hello@pawlink.com
-- GitHub Issues: [Create an issue](https://github.com/your-org/pawlink-landing/issues)
+- Email: support@furever-ai.com
+- GitHub Issues: [Create an issue](https://github.com/dxu104/furever-ai-landing/issues)
 

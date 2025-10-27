@@ -5,6 +5,7 @@ import './globals.css'
 const inter = Inter({ subsets: ['latin'] })
 
 export const metadata: Metadata = {
+  metadataBase: new URL('https://furever-ai.com'),
   title: 'FurEver AI - Where Friendships Begin',
   description: 'The world\'s first AI-driven social wearable for pets. Help your furry friends build deeper connections through technology.',
   keywords: 'pet technology, AI, wearable, pet friendship, smart collar, pet social',
